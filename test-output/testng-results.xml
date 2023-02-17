@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-25T19:25:31 IST" name="Default suite" finished-at="2023-01-25T19:25:31 IST" duration-ms="97">
+    <groups>
+    </groups>
+    <test started-at="2023-01-25T19:25:31 IST" name="Default test" finished-at="2023-01-25T19:25:31 IST" duration-ms="97">
+      <class name="com.playerlist.TestClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.playerlist.TestClass@18df8434]" started-at="2023-01-25T19:25:31 IST" name="setup" finished-at="2023-01-25T19:25:31 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkForeignPlayer_Count()[pri:0, instance:com.playerlist.TestClass@18df8434]" started-at="2023-01-25T19:25:31 IST" name="checkForeignPlayer_Count" finished-at="2023-01-25T19:25:31 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForeignPlayer_Count -->
+        <test-method signature="checkWicketKeeperCount()[pri:0, instance:com.playerlist.TestClass@18df8434]" started-at="2023-01-25T19:25:31 IST" name="checkWicketKeeperCount" finished-at="2023-01-25T19:25:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWicketKeeperCount -->
+      </class> <!-- com.playerlist.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
